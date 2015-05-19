@@ -20,7 +20,8 @@
 
 
 ## Update on Eclipse plugin and Java tools (Ryan Morgan)
-
+* Eclipse tooling 1.8.2 released last week, enabling JRebel remoting.  Was demoed at summit.
+* Proposal for moving the plugin to the Eclipse Foundation has been completed, awaiting input from Chip.
 
 ## Proposal to move `pivotal-cf-experimental/jibber-jabber` into `cloudfoundry-incubator`
 
