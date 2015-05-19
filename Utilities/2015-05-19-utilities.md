@@ -35,12 +35,12 @@ those dependencies. This may end up as a docker image that can be
 added to a Concourse pipeline, and may be extended to include other
 security checks.
 
-__Chip__ suggested that we should talk to Intel about their tools as
+Chip suggested that we should talk to Intel about their tools as
 well. Chip will try to find the right contact there for a
 conversation.
 
-__Gert__ asked about code-style enforcement tools on C# projects. He
-will send some information on what HP is using.
+Gert asked about code-style enforcement tools on C# projects. He will
+send some information on what HP is using.
 
 
 ## Update on CLI (Greg Oehman)
