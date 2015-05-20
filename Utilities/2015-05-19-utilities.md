@@ -81,10 +81,6 @@ Several repositories are being incubated as of CF Summit:
 
 After some discussion, it was decided to put all three repos under a single umbrella project.
 
-  [vsp]: https://github.com/cloudfoundry-incubator/cf-vs-extension
-  [msbuild]: https://github.com/cloudfoundry-incubator/cf-msbuild-tasks
-  [sdk]: https://github.com/cloudfoundry-incubator/cf-dotnet-sdk
-
 Chip provided some context around what a "project" is, in that he
 views it as a backlog of work, and not necessarily a 1-to-1
 relationship with a code repository.
@@ -107,3 +103,11 @@ Action Items:
 ## Open Discussion
 
 No other topics raised.
+
+
+---
+
+  [vsp]: https://github.com/cloudfoundry-incubator/cf-vs-extension
+  [msbuild]: https://github.com/cloudfoundry-incubator/cf-msbuild-tasks
+  [sdk]: https://github.com/cloudfoundry-incubator/cf-dotnet-sdk
+

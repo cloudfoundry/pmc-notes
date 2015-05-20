@@ -51,6 +51,16 @@ Notable near-term goals:
 * ability to generate and test CF rootfs-specific binaries; and tooling for CF operators to do the same
 * work more closely with the java-buildpacks team
 
+
+## Open Discussion
+
+Mike: Just want to note that IBM open-sourced their linux-based ASP.NET/Mono buildpack this week. Looks awesome!
+
+> https://github.com/cloudfoundry-community/asp.net5-buildpack
+
+
+---
+
   [binary]: https://github.com/cloudfoundry/binary-buildpack
   [binary-pr]: https://github.com/cloudfoundry/cf-release/pull/677
   [static]: https://github.com/cloudfoundry/staticfile-buildpack
@@ -59,10 +69,3 @@ Notable near-term goals:
   [skinny-pr]: https://github.com/cloudfoundry/cf-release/pulls?utf8=%E2%9C%93&q=is%3Apr+buildpack+skinny+
   [skinny-thread1]: https://groups.google.com/a/cloudfoundry.org/forum/#!searchin/vcap-dev/addressing$20buildpack/vcap-dev/1HmGK4wU3Rc/lk186OOtdbMJ
   [skinny-thread2]: http://lists.cloudfoundry.org/pipermail/cf-dev/2015-May/000005.html
-
-
-## Open Discussion
-
-Mike: Just want to note that IBM open-sourced their linux-based ASP.NET/Mono buildpack this week. Looks awesome!
-
-> https://github.com/cloudfoundry-community/asp.net5-buildpack
