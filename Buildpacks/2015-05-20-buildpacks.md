@@ -9,6 +9,10 @@
 
 ## Attendees
 
+* Chip Childers, Cloud Foundry Foundation
+* Mike Dalessio, Pivotal (PMC lead)
+* Matthew Sykes, IBM
+
 
 ## Update on Java Buildpack (Ryan Morgan)
 
@@ -59,4 +63,6 @@ Notable near-term goals:
 
 ## Open Discussion
 
-Mike D: Would someone from IBM like to talk about the ASP.NET/Mono buildpack?
+Mike: Just want to note that IBM open-sourced their linux-based ASP.NET/Mono buildpack this week. Looks awesome!
+
+> https://github.com/cloudfoundry-community/asp.net5-buildpack
