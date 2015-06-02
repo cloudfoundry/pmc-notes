@@ -18,6 +18,7 @@
 
 
 ## Update on Eclipse plugin and Java tools (Ryan Morgan)
-
+* Work on 1.8.3 progressing, mostly bug fixes.
+* Completed a spike on Debugging a Java application via SSH.  Requires Diego and currently only works in bosh-lite.  Will be included in 1.8.3.  Story for this feature: https://www.pivotaltracker.com/story/show/94617426.
 
 ## Open Discussion
