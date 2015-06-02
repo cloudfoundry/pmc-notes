@@ -3,7 +3,7 @@
 ## Agenda
 
 1. Update on CI tools (Mike Dalessio)
-2. Update on CLI (Greg Oehman)
+2. Update on CLI (Greg Oehmen)
 3. Update on Eclipse plugin and Java tools (Ryan Morgan)
 4. Open Discussion
 
