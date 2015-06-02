@@ -10,6 +10,14 @@
 
 ## Attendees
 
+* Chip Childers, Cloud Foundry Foundation
+* Mike Dalessio, Pivotal (PMC lead)
+* Ryan Morgan, Pivotal
+* Steve Winkler, GE
+* Gert Drapers, HP
+* Matt Sykes, IBM
+* Michael Fraenkel, IBM
+
 
 ## Update on CI tools (Mike Dalessio)
 
@@ -28,13 +36,20 @@
 
 
 ## Update on CLI (Greg Oehman)
+
 * Ongoing work on service keys with Services team
 * Finishing last details of Concourse migration
 * Ongoing work on Plugin API (vetted plan/implementation with community at CF Summit CLI Open House - great experience)
 * Reviving `cfhelp` refactoring work with Mike Long, IBM Designers.  Will be next feature after Plugin API
 
+
 ## Update on Eclipse plugin and Java tools (Ryan Morgan)
+
 * Work on 1.8.3 progressing, mostly bug fixes.
 * Completed a spike on Debugging a Java application via SSH.  Requires Diego and currently only works in bosh-lite.  Will be included in 1.8.3.  Story for this feature: https://www.pivotaltracker.com/story/show/94617426.
 
+
 ## Open Discussion
+
+
+Nothing additional was discussed.
