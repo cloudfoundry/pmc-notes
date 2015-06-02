@@ -13,6 +13,19 @@
 
 ## Update on CI tools (Mike Dalessio)
 
+- The Toolsmiths team will be shutting down the OSS GoCD pipeline,
+  which was only servicing the CLI team (and they are moving to
+  Concourse).
+
+- The Buildpacks team has moved to concourse, and will be
+  open-sourcing their pipeline configurations once the environment has
+  been secured and it's not leaking credentials
+
+- The Concourse team has started to put together some security
+  recommendations for setting up a secure Concourse deployment, with
+  particular attention to AWS configuration.
+
+
 
 ## Update on CLI (Greg Oehman)
 * Ongoing work on service keys with Services team
