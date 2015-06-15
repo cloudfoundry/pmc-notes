@@ -11,7 +11,9 @@
 
 
 ## Update on Java Buildpack (Ryan Morgan)
-
+* Investigation on an OOM issue raised on cf-dev: https://www.pivotaltracker.com/story/show/94381284
+* Spike on Lunk SDK integration (Hardware security device from SafeNet): https://www.pivotaltracker.com/story/show/96530962
+* Next release will be 3.1, likely by the end of June.
 
 ## Update on core Buildpacks (Mike Dalessio)
 
