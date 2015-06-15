@@ -15,7 +15,6 @@
 * Ruben Koster, Stark and Wayne
 * Ryan Morgan, Pivotal
 * Mike Dalessio, Pivotal
-* "call-in user 2"
 
 
 ## Update on Java Buildpack (Ryan Morgan)
