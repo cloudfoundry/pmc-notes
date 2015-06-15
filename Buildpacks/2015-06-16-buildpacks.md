@@ -9,6 +9,14 @@
 
 ## Attendees
 
+* Chip Childers, Cloud Foundry Foundation
+* Alex Tarpinian, IBM
+* Michael Fraenkel, IBM
+* Ruben Koster, Stark and Wayne
+* Ryan Morgan, Pivotal
+* Mike Dalessio, Pivotal
+* "call-in user 2"
+
 
 ## Update on Java Buildpack (Ryan Morgan)
 * Investigation on an OOM issue raised on cf-dev: https://www.pivotaltracker.com/story/show/94381284
@@ -24,6 +32,10 @@ __Tracks__
 * Moved to Concourse. Will be made public shortly.
 * [upcoming] Will soon be removing support for lucid64 rootfs.
 
+Some discussion with Michael Fraenkel about the timing of removal of
+lucid64 from `cf-release`, and whether this impacts the buildpacks
+work. We'll loop up with Dieu in the Runtime PMC tomorrow.
+
 
 __Releases__
 
@@ -34,8 +46,15 @@ __Releases__
 
   [stacks]: https://github.com/cloudfoundry/stacks
   [static]: https://github.com/cloudfoundry/staticfile-buildpack/releases
+  [python]: https://github.com/cloudfoundry/python-buildpack/releases
   [pyrelease]: https://hg.python.org/cpython/raw-file/15c95b7d81dc/Misc/NEWS
   [php]: https://github.com/cloudfoundry/php-buildpack/releases
+  [nodejs]: https://github.com/cloudfoundry/nodejs-buildpack/releases
+
+Michael Fraenkel noted that he submitted a small PR to
+`binary-buidpack`, which Mike Dalessio will review ASAP.
 
 
 ## Open Discussion
+
+No additional topics were covered.
