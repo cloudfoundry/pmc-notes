@@ -32,9 +32,9 @@
 
 
 ## Update on Eclipse plugin and Java tools (Ryan Morgan)
-
+* Push to move to the Eclipse Foundation continues.
 
 
 ## Open Discussion
-
+* Proposal to accept receptor-client into incubation.  See: http://cf-dev.70369.x6.nabble.com/cf-dev-Proposal-for-incubation-of-receptor-client-Java-client-for-receptor-td440.html
 
