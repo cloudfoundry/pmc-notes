@@ -40,7 +40,7 @@
   - Another track of work on PRs and Issues was successful at cleaning up some old stories.
 
 - Next release will be 6.12.0.
-  - Deprecate "code gangsta" which is used for feature flags
+  - Deprecate "codegangsta" library which is used for feature flags
 
 - Working with IBM designers on user testing "help" with a mock
   terminal emulator. Community members have offered to be a part of
