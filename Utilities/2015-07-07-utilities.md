@@ -11,6 +11,10 @@
 
 ## Attendees
 
+* Chip Childers, Cloud Foundry Foundation
+* Mike Dalessio, Pivotal (PMC lead)
+* Deepak Vij, Huawei
+
 
 ## Update on CI tools (Mike Dalessio)
 
@@ -25,6 +29,8 @@
 
 ## Update on CLI (Greg Oehman)
 
+No update.
+
 
 ## Update on Eclipse plugin and Java tools (Ryan Morgan)
 
@@ -33,12 +39,17 @@
 
 ## Proposal to accept receptor-client into incubation
 
-Last meeting, Ryan Morgan proposed receptor-client for acceptance into incubation.
+Last meeting, Ryan Morgan [proposed receptor-client for acceptance][receptor-client-proposal] into incubation.
 
-http://cf-dev.70369.x6.nabble.com/cf-dev-Proposal-for-incubation-of-receptor-client-Java-client-for-receptor-td440.html
+
+
+No objections having been raised, on either the mailing list or in the
+PMC meeting, this is now accepted into incubation.
 
 
 ## Open Discussion
+
+None.
 
 
 -----
@@ -46,3 +57,4 @@ http://cf-dev.70369.x6.nabble.com/cf-dev-Proposal-for-incubation-of-receptor-cli
   [toolsmiths-tracker]: https://www.pivotaltracker.com/n/projects/1042066
   [lf-tracker]: https://www.pivotaltracker.com/n/projects/939266
   [lf]: https://github.com/pivotal/LicenseFinder
+  [receptor-client-proposal]: http://cf-dev.70369.x6.nabble.com/cf-dev-Proposal-for-incubation-of-receptor-client-Java-client-for-receptor-td440.html
