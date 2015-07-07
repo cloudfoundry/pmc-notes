@@ -17,10 +17,10 @@
 - Krafa track of work has been broadly defined, and it's in the
   Toolsmiths [public backlog and icebox][toolsmiths-tracker].
 
-- A pair is continuing work on License Finder, which is an OSS tool to
+- A pair is continuing work on [License Finder][lf], which is an OSS tool to
   examine a project's declared dependencies (via a package manager)
   and discover licenses and changes in licensing. This should be
-  useful for the Foundation as well.
+  useful for the Foundation as well. (See [Tracker here][lf-tracker].)
 
 
 ## Update on CLI (Greg Oehman)
@@ -44,3 +44,5 @@ http://cf-dev.70369.x6.nabble.com/cf-dev-Proposal-for-incubation-of-receptor-cli
 -----
 
   [toolsmiths-tracker]: https://www.pivotaltracker.com/n/projects/1042066
+  [lf-tracker]: https://www.pivotaltracker.com/n/projects/939266
+  [lf]: https://github.com/pivotal/LicenseFinder
