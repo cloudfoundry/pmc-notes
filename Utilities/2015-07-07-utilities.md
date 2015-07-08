@@ -29,7 +29,9 @@
 
 ## Update on CLI (Greg Oehman)
 
-No update.
+The CLI team released version 6.12.1 on 7/6/2015.  Release notes,
+download instructions and binaries are available at
+https://github.com/cloudfoundry/cli/releases
 
 
 ## Update on Eclipse plugin and Java tools (Ryan Morgan)
