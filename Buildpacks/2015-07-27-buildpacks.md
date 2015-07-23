@@ -36,11 +36,16 @@ Open-sourced [concourse CI pipelines][].
 
 The team has been working on a series of spikes intended to drive towards a technical solution for implementing shared behaviors (across buildpacks) into shared code. This work can be followed in the Tracker backlog in the [architecture epic][].
 
+We moved [buildpack-packager][], [machete][], and [machete-firewall-test][] into the `cloudfoundry` org, as they're part of our core tooling. These were previously in the deprecated `cf-buildpacks` org or were overlooked during the initial Foundation repository cleanup.
+
 
   [binary builder]: https://github.com/cloudfoundry/binary-builder
   [concourse CI pipelines]: https://github.com/cloudfoundry/buildpacks-ci
   [Rootfs 1.1.0]: https://github.com/cloudfoundry/stacks/releases/tag/1.1.0
   [architecture label]: https://www.pivotaltracker.com/epic/show/1898760
+  [buildpack-packager]: https://github.com/cloudfoundry/buildpack-packager
+  [machete]: https://github.com/cloudfoundry/machete
+  [machete-firewall-test]: https://github.com/cloudfoundry/machete-firewall-test
 
 
 __Upcoming work__
