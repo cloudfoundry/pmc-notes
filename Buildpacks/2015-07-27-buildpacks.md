@@ -53,6 +53,12 @@ The team will be experimenting with extension points to the buildpack life cycle
 We'll also be trying focused sprints on individual buildpacks.
 
 
+__Questions__
+
+I would like to either delete or attic `cloudfoundry-incubator/null-buildpack`. This was originally a fork of a Heroku buildpack and the adoption of `cloudfoundry/binary-buildpack` obviates the need for it.
+
+
+
 ## Open Discussion
 
 ...
