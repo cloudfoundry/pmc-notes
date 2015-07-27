@@ -4,8 +4,10 @@
 
 1. Update on Java Buildpack (Ryan Morgan)
 2. Update on core Buildpacks and rootfs (Mike Dalessio)
-3. Open Discussion
-
+3. Proposals
+  * `null-buildpack` deprecation
+4. Open Discussion
+  * Moving Buildpacks PMC discussion to the mailing list
 
 ## Attendees
 
@@ -62,13 +64,19 @@ The team will be experimenting with extension points to the buildpack life cycle
 We're also considering focused sprints for individual buildpacks.
 
 
-__Questions__
+## Proposals
 
-I would like to either delete or attic `cloudfoundry-incubator/null-buildpack`. This was originally a fork of a Heroku buildpack and the adoption of `cloudfoundry/binary-buildpack` obviates the need for it.
+### `null-buildpack` deprecation
 
+The repository `cloudfoundry-incubator/null-buildpack` has been deprecated by the adoption of `cloudfoundry/binary-buildpack`, and so it's being proposed to move this to the attic or to delete it.
+
+After a brief discussion, it was decided to place this repository in `cloudfoundry-attic`.
 
 
 ## Open Discussion
 
-...
+### Moving Buildpacks PMC discussion to the mailing list
 
+Chip and Mike noted that attendance has not been regular at the Buildpacks PMC. Chip suggested that perhaps the Buidpacks PMC discussion could move to the mailing list, rather than continue to have the call.
+
+No objections from those present. We'll try using email, rather than waiting for a PMC call, for the next month; and we'll revisit this decision based on feedback.
