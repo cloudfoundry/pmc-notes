@@ -10,9 +10,9 @@
 ## Attendees
 
 * Chip Childers, Cloud Foundry Foundation
+* Stormy Peters, Cloud Foundry Foundation
 * Mike Dalessio, Pivotal (PMC lead)
 * Ryan Morgan, Pivotal
-* ...
 
 
 ## Update on Java Buildpack (Ryan Morgan)
