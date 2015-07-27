@@ -17,8 +17,9 @@
 
 ## Update on Java Buildpack (Ryan Morgan)
 
-...
-
+* Java Buildpack 3.1 released on June 25th.  [Release notes](https://github.com/cloudfoundry/java-buildpack/releases/tag/v3.1)
+* Work continues on support for Hardware security devices. (Safenet Luna security provider)
+* Not much work remains in the backlog, next up is migration to Concourse
 
 ## Update on core Buildpacks and rootfs (Mike Dalessio)
 
