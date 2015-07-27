@@ -28,6 +28,8 @@ Released ruby-buildpack v1.6.0, php-buildpack v4.0.0, python-buildpack v1.5.0, n
 
 Released binary-buildpack v1.0.1 which contains Michael Fraenkel's PR for Diego compatibility.
 
+Released go-buildpack 1.5.0 with a Godeps upgrade and removal of the custom python interpreter (now uses rootfs python).
+
 Updates to all buildpacks to remove lucid64 binaries from manifests. Operators can use the buildpack tooling to generate these binaries and package their own buildpacks as they deem necessary. Note that as part of this effort, the [binary builder][] tooling was open-sourced.
 
 Open-sourced [concourse CI pipelines][].
