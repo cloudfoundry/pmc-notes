@@ -21,13 +21,14 @@
 * Work continues on support for Hardware security devices. (Safenet Luna security provider)
 * Not much work remains in the backlog, next up is migration to Concourse
 
-## Update on core Buildpacks and rootfs (Mike Dalessio)
+
+## Update on core Buildpacks and `rootfs` (Mike Dalessio)
 
 __Recent work__
 
-Released ruby-buildpack v1.6.0, php-buildpack v4.0.0, python-buildpack v1.5.0, nodejs-buildpack v1.5.0 and staticfile-buildpack v1.2.1, which all contain CF-specific precompiled binaries. (The go-buildpack uses Google-built binaries and we're OK with this.)
+Released ruby-buildpack v1.6.0, php-buildpack v4.0.0, python-buildpack v1.5.0, nodejs-buildpack v1.5.0 and staticfile-buildpack v1.2.1, which all contain CF-specific precompiled binaries. (NB the go-buildpack uses Google-built binaries and we're OK with this.)
 
-Released binary-buildpack v1.0.1 which contains Michael Fraenkel's PR for Diego compatibility.
+Released binary-buildpack v1.0.1 which contains Michael Fraenkel's (IBM) PR for Diego compatibility.
 
 Released go-buildpack 1.5.0 with a Godeps upgrade and removal of the custom python interpreter (now uses rootfs python).
 
@@ -45,7 +46,7 @@ We moved [buildpack-packager][], [machete][], and [machete-firewall-test][] into
   [binary builder]: https://github.com/cloudfoundry/binary-builder
   [concourse CI pipelines]: https://github.com/cloudfoundry/buildpacks-ci
   [Rootfs 1.1.0]: https://github.com/cloudfoundry/stacks/releases/tag/1.1.0
-  [architecture label]: https://www.pivotaltracker.com/epic/show/1898760
+  [architecture epic]: https://www.pivotaltracker.com/epic/show/1898760
   [buildpack-packager]: https://github.com/cloudfoundry/buildpack-packager
   [machete]: https://github.com/cloudfoundry/machete
   [machete-firewall-test]: https://github.com/cloudfoundry/machete-firewall-test
@@ -58,7 +59,7 @@ The team will be experimenting with extension points to the buildpack life cycle
 * allow extension of buildpack behavior by application developers without having to fork the buildpack
 * allow extension of buildpack behavior by operators which is currently not possible
 
-We'll also be trying focused sprints on individual buildpacks.
+We're also considering focused sprints for individual buildpacks.
 
 
 __Questions__
