@@ -27,6 +27,7 @@
 ## Update on Eclipse plugin and Java tools (Ryan Morgan)
 * CF Java Client 1.1.3 released on June 26th.  Fixes temporary file cleanup on pushed artifacts.
 * Eclipse plugin given the go ahead to move to the Eclipse Foundation.  Proposal in process.
+* receptor-client is in the process of moving to cloudfoundry-incubator
 
 ## Proposals
 
