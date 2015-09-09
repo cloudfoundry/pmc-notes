@@ -52,7 +52,7 @@ Research continues on how to improve the state of extensibility for Buildpacks. 
 
 ### go-buildpack
 
-[go-buildpack v1.6.0][] and [go-buildpack v1.5.0][] were released. These versions notably add support for golang 1.5.1, remove support for golang 1.1.x, update [godep][], and remove the vendored python interpreter.
+[go-buildpack v1.6.0][] and [go-buildpack v1.5.0][] were released. These versions notably add support for golang 1.5.0, remove support for golang 1.1.x, update [godep][], and remove the vendored python interpreter.
 
   [go-buildpack v1.6.0]: https://github.com/cloudfoundry/go-buildpack/releases/tag/v1.6.0
   [go-buildpack v1.5.0]: https://github.com/cloudfoundry/go-buildpack/releases/tag/v1.5.0
