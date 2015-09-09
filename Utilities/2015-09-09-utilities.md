@@ -9,13 +9,13 @@
 
 ## Update on "Offline" PMC Discussions
 
-In the previous PMC meeting, held on 2015-07-28, the Buildpacks PMC agreed to tentatively stop conducting regular synchronous meetings, and instead move to an "offline" model where discussions and, if necessary, voting would be conducted on the public cf-dev@ mailing list.
+In the previous PMC meeting, held on 2015-07-28, the Utilities PMC agreed to tentatively stop conducting regular synchronous meetings, and instead move to an "offline" model where discussions and, if necessary, voting would be conducted on the public cf-dev@ mailing list.
 
 As part of this change, the PMC Lead (that's me!) committed to sending regular status updates to the mailing list in lieu of meeting notes. In this aspect, I failed over the last month, and I apologize for the resulting lack of transparency.
 
 Going forward, I'll return to a two-week cycle of email updates for this PMC.
 
-Please reach out to me or Chip if you have concerns over continuing the "offline" model for the Buildpacks PMC.
+Please reach out to me or Chip if you have concerns over continuing the "offline" model for the Utilities PMC.
 
 
 ## CLI
