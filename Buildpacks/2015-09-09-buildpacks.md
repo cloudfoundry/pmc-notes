@@ -100,8 +100,8 @@ The root cause of this incident was the expiration of the SSL certificate for `d
 
 Two aspects of this incident were focused on during a post-mortem on 2015-09-09, to which Chip and Sam were invited.
 
-__1. The certificate was allowed to expire__
-__2. An open-source buildpack is relying on a Pivotal-managed domain and SSL certificate__
+ 1. __The certificate was allowed to expire__
+ 2. __An open-source buildpack is relying on a Pivotal-managed domain and SSL certificate__
 
 The first aspect resulted in Pivotal-internal action items to centralize cert management and to require an escalation policy for each cert. These are perhaps uninteresting to most readers, but I'm happy to provide more detail on request.
 
