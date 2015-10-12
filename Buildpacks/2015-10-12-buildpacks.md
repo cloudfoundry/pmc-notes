@@ -27,7 +27,7 @@ Released cflinuxfs2 [1.9.0](https://github.com/cloudfoundry/stacks/releases/tag/
 
 The Buildpacks team has been doing further experimentation with __extensibility__ for both developers and operators. Results can be seen in the public Tracker under the ["architecture" epic](https://www.pivotaltracker.com/epic/show/1898760).
 
-The Buildpacks team has also been working on a feature track to allow end users of the core buildpacks to __verify the origin__ of all binaries vendored in the buildpack. This "chain of custody" track is intended to allow security-minded CF operators to trust the buildpack binaries being run in their deployment (and to regenerate the binaries themselves as needed). This work can be viewed in the public Tracker under the ["chain of custory" epic](https://www.pivotaltracker.com/epic/show/2077742).
+The Buildpacks team has also been working on a feature track to allow end users of the core buildpacks to __verify the origin__ of all binaries vendored in the buildpack. This "chain of custody" track is intended to allow security-minded CF operators to trust the buildpack binaries being run in their deployment (and to regenerate the binaries themselves as needed). This work can be viewed in the public Tracker under the ["chain of custody" epic](https://www.pivotaltracker.com/epic/show/2077742).
 
 
 ### java-buildpack
