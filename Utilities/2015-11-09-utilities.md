@@ -29,9 +29,9 @@ CLI v6.13.0 was released, which pulls Diego support into the main tool (i.e., th
 * Started implementing stories around [Organization and Space RBAC](https://www.pivotaltracker.com/epic/show/1991856).
 * Started fleshing out stories upcoming around [CC v3 API](https://www.pivotaltracker.com/epic/show/2088038).
 * Implemented a number of First Impressions stories:
-- Simplification of the [Download page](https://github.com/cloudfoundry/cli#downloads) (making 64 bit installers and binaries more prominent than the edge and 32 bit releases)
-- Examples on how to download them with curl
-- Improved filenames (added release version in filename, etc.)
+  - Simplification of the [Download page](https://github.com/cloudfoundry/cli#downloads) (making 64 bit installers and binaries more prominent than the edge and 32 bit releases)
+  - Examples on how to download them with curl
+  - Improved filenames (added release version in filename, etc.)
 
 
 ### Risks
