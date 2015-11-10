@@ -64,7 +64,7 @@ Released [v1.6.3](https://github.com/cloudfoundry/go-buildpack/releases/tag/v1.6
 
 #### Proposals
 
-In the last set of PMC notes, a proposal to drop golang v1.2.x and v1.3.x was proposed and no objections were raised. We'll be scheduling work on this over the next few weeks.
+In the last set of PMC notes, it was proposed to [drop golang v1.2.x and v1.3.x](https://github.com/cloudfoundry/go-buildpack/issues/22) and no objections were raised. We'll be scheduling work on this over the next few weeks.
 
 
 #### Notes
@@ -123,4 +123,4 @@ Released [v1.2.2](https://github.com/cloudfoundry/staticfile-buildpack/releases/
 
 #### Notes
 
-Some performance analysis was done of the staticfile-buildpack after cf-release v221's increase to `ip_conntrack_max`, and the results may be interesting to readers. Details are [in this tracker story](https://www.pivotaltracker.com/story/show/105014548), but the TL;DR is that we saturated the testing network before we hit any nginx bottlenecks. Peak performance for 1KB payloads was in excess of 1400 requests/second.
+Some performance analysis was done of the staticfile-buildpack after cf-release v221's increase of `ip_conntrack_max`, and the results may be interesting to readers. Details are [in this tracker story](https://www.pivotaltracker.com/story/show/105014548), but the TL;DR is that we saturated the testing network before we hit nginx bottlenecks. Peak performance for 1KB payloads was in excess of 1400 requests/second.
