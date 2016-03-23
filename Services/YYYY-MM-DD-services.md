@@ -1,4 +1,4 @@
-# Runtime PMC Meeting 2015-08-11
+# Services PMC Meeting 2015-08-11
 
 ## Agenda
 
