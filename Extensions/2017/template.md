@@ -1,5 +1,7 @@
 # CF Extensions PMC Notes
 
+*Chat room:* go to [slack.cloudfoundry.org](https://slack.cloudfoundry.org) and then join the `#cf-extensions` channel
+
 ## Zoom info
 
 - *Meeting ID:* 559 273 7187
