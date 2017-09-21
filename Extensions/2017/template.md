@@ -16,30 +16,70 @@
 
 ## _Incubating_
 
-## App AutoScaler (Julz)
+### App AutoScaler (Julz)
 
-[add update here]
+[add updates here]
 
-## BBR (Therese)
+### BBR (Therese)
 
-[add update here]
+[add updates here]
+
+### Buildpacks (Stephen)
+
+[add updates here]
 
 ### CF Abacus (Hristo)
 
-[add update here]
+[add updates here]
+
+### CF Abacus Broker (Hristo)
+
+[add updates here]
 
 ### CF Extensions (Max)
 
-[add update here]
+[add updates here]
 
-### CredHub (Dan)
+### CredHub & CLI (Dan)
 
-[add update here]
+[add updates here]
 
 ### CF Swagger (Max)
 
-[add update here]
+[add updates here]
+
+### Kubo (Colin)
+
+[add updates here]
 
 ## _Under Review_
 
-[add here]
+### Service Fabrik (Ashish)
+
+[add updates here]
+
+### CF Local (Stephen)
+
+[add updates here]
+
+### CF-Extensions Bot (Max)
+
+[add updates here]
+
+## _Misc_
+
+### App Lifecycle Management (?)
+
+[add updates here]
+
+### Buildpack Metadata (Stephen)
+
+[add updates here]
+
+### Multi-Buildpacks (?)
+
+[add updates here]
+
+### SuSe Stemcell (?)
+
+[add updates here]
