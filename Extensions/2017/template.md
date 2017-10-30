@@ -38,10 +38,6 @@
 
 [add updates here]
 
-### CF Extensions (Max)
-
-[add updates here]
-
 ### CredHub & CLI (Dan)
 
 [add updates here]
@@ -64,7 +60,7 @@
 
 [add updates here]
 
-### CF-Extensions Bot (Max)
+### CF-Extensions & Bot (Max)
 
 [add updates here]
 
