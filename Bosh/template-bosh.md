@@ -1,0 +1,40 @@
+# BOSH PMC Meeting 2019-MM-DD
+
+## Agenda
+
+* Announcements
+* PMC Lifecycle Activities
+* Backlog Review
+* Any other topics?
+
+## Announcements
+
+
+## PMC Lifecycle Activities
+
+
+## Discussion
+
+
+## Backlog Reviews
+
+### BOSH Core SF - Morgan Fine
+
+
+### BOSH AWS CPI - Morgan Fine
+
+
+### BOSH Core Europe - Felix Riegger
+
+
+### OpenStack CPI - Felix Riegger
+
+
+### Google CPI - Evan Brown
+
+
+### Azure CPI – Jason Stevens
+
+
+### vSphere CPI - Yeshwant Babar
+
