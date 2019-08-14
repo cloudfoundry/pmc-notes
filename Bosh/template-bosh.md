@@ -1,5 +1,8 @@
 # BOSH PMC Meeting 2019-MM-DD
 
+## When/Where?
+* http://zoom.bosh.io/ at 8:00AM PST/17:00 CEST
+
 ## Attendees
 
 ## Agenda
