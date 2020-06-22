@@ -4,15 +4,19 @@
 
 ## Zoom info
 
-- *Meeting ID:* 559 273 7187
-- *PC, Mac, Linux, iOS or Android:* [https://zoom.us/j/5592737187](https://zoom.us/j/5592737187)
-- *iPhone one-tap: US:* +16699006833,,5592737187#  or +16465588656,,5592737187# 
+Join Zoom Meeting
+
+- *Meeting ID:* 922 2840 3930
+- *PC, Mac, Linux, iOS or Android:* [https://zoom.us/j/92228403930](https://zoom.us/j/92228403930)
+- *iPhone one-tap: US:* +16699006833,,92228403930#  or +16465588656,,92228403930# 
 - *Telephone:* US: +1 669 900 6833  or +1 646 558 8656 
 - *International numbers:* https://zoom.us/zoomconference?m=92A2yi2UMG55h6OWMvp7GsxQKIou0L3E
 
 ## New business
 
-- [add here]
+- Where should the Extensions PMC go from here?
+- Which projects are still active? (added a number to the Status Updates Needed section)
+- @troytop will follow up with project leads 
 
 # Projects
 
@@ -23,7 +27,6 @@
 [add here]
 
 ### [Service Fabrik](https://github.com/cloudfoundry-incubator/service-fabrik-broker)
-
 
 ### [MultiApps](https://github.com/cloudfoundry-incubator/multiapps-cli-plugin)
 
@@ -57,7 +60,20 @@
 ### [CFCR (aka Kubo)](https://github.com/cloudfoundry-incubator/cfcr-home)
 ### [Stratos](https://github.com/cloudfoundry/stratos)
 
-## _Retiring_
+* Nothing to report
+
+## _Status Updates Needed_
+
+### [Brooklyn Broker]() - Robert Moss
+### [SQL Server]() - Jared Gordon
+### [cf-dev]() - Sam Dawson / Steven Levine
+### [cf-local]() - Steven Levine
+### [Java Tools]() - Ben Hale
+### [CF Swagger]() - Dr. Max
+### [Notifications]() - Nadja Conklin(?)
+
+## _Retired_
 
 ### [CF Abacus](https://github.com/cloudfoundry-incubator/cf-abacus)
 ### [Project Blockheads](https://github.com/cloudfoundry-incubator/blockhead)
+
