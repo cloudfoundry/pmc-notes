@@ -64,13 +64,13 @@ Join Zoom Meeting
 
 ## _Status Updates Needed_
 
-### [Brooklyn Broker]() - Robert Moss
-### [SQL Server]() - Jared Gordon
-### [cf-dev]() - Sam Dawson / Steven Levine
-### [cf-local]() - Steven Levine
-### [Java Tools]() - Ben Hale
-### [CF Swagger]() - Dr. Max
-### [Notifications]() - Nadja Conklin(?)
+### [Brooklyn Broker](https://github.com/cloudfoundry-incubator/apache-brooklyn-service-broker) - Robert Moss
+### [SQL Server](https://github.com/cloudfoundry-incubator/mssql-server-broker) - Jared Gordon
+### [cfdev](https://github.com/cloudfoundry-incubator/cfdev) - Sam Dawson / Steven Levine
+### [cflocal](https://github.com/cloudfoundry-incubator/cflocal) - Steven Levine
+### [Java Tools](https://github.com/cloudfoundry/cf-java-client) - Ben Hale
+### [CF Swagger](https://github.com/cloudfoundry-incubator/cf-swagger) - Dr. Max
+### [Notifications](https://github.com/cloudfoundry-incubator/notifications) - Nadja Conklin(?) or Dwayne Forde
 
 ## _Retired_
 
