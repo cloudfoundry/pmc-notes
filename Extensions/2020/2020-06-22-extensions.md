@@ -24,25 +24,27 @@
 
 ### [Service Fabrik](https://github.com/cloudfoundry-incubator/service-fabrik-broker)
 
-* 
 
 ### [MultiApps](https://github.com/cloudfoundry-incubator/multiapps-cli-plugin)
 
-#### New features:
-
-* 
-
 #### Usability improvements
 
-* 
-* 
-* 
-* 
+* multiapps CLI plugin will skip automatic retry of MTA content related errors. It was not very smart from our side to retry deployments where MTA was not modelled correctly
+* Receive improved error messages in case of Cloud Controller related errors
+
+#### Performance Improvements
+
+* Eliminated potentially thousands of unnecessary calls to the Cloud Controller API, thus reducing the chance of exceeding the rate limit for the user
 
 #### Bugfixes & other 
 
-* 
-* 
+* As a result of multiple aborted processes, some deployments could end up with nasty errors, such as “Broken pipe”
+* Disk leak on the application container led to failing operations with “No space left on device”
+* After migration of MTA metadata from env to CF metadata, first attempt of blue green deployment of existing MTA failed when tried to delete routes
+* Command line option --abort-on-error is now working regardless the moment of failure in your deployment
+* The handling of async service creation had a regression! Service creation was not complete but the deployments continued, that led to similar failures in next steps:
+“CF-AsyncServiceInstanceOperationInProgress(60016): An operation for service instance my-hana-service is in progress”
+* Deploy from directory did not work for Windows because MANIFEST.MF had been generated with OS specific file separator. If you want the fix get the latest multiapps CLI plugin
 
 ## _Under Review_
 
