@@ -30,13 +30,13 @@ Find your local number: https://zoom.us/u/abSAPsJbM
 
 ## Updates
 
-### Stratos (Neil MacDougall)
+### Stratos 
 
 - 4.1.0 just released
 - bug fixes & API key support (will be very useful in 4.2)
 - 4.2.0 scheduled for CF Summit - will include the Kubernetes & Helm extensions
 
-### cflocal (Stephen Levine)
+### cflocal
 
 - added cflinuxfs3 support recently 
 - v2 buildpack users still use it
@@ -54,6 +54,7 @@ Find your local number: https://zoom.us/u/abSAPsJbM
 
 - [cfdev](https://github.com/cloudfoundry-incubator/cfdev) - Anthony Emengo 
   - Inactive. Consider moving to the Attic?
+- [cflocal](https://github.com/cloudfoundry-incubator/cflocal) - Stephen Levine 
 
 ## _Graduated_
 
@@ -62,7 +63,7 @@ Find your local number: https://zoom.us/u/abSAPsJbM
 - [Buildpacks](https://buildpacks.io/)
 - [CredHub & CLI](https://github.com/cloudfoundry-incubator/credhub)
 - [CFCR (aka Kubo)](https://github.com/cloudfoundry-incubator/cfcr-home) - Stuart Charlton
-- [Stratos](https://github.com/cloudfoundry/stratos)
+- [Stratos](https://github.com/cloudfoundry/stratos) - Neil MacDougall
 - [omniauth-uaa-oauth2](https://github.com/cloudfoundry/omniauth-uaa-oauth2) - Dr. Nic
 - [cf-uaa-lib](https://github.com/cloudfoundry/cf-uaa-lib) - Dr. Nic
 
