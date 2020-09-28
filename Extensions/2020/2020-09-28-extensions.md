@@ -24,45 +24,64 @@ Find your local number: https://zoom.us/u/abSAPsJbM
 
 ## New business
 
-- Welcome omniauth-uaa-oauth2 and cf-uaa-lib!
+- Welcome omniauth-uaa-oauth2 and cf-uaa-lib! Dr. Nic
 - Still using the [cf-extensions bot](https://github.com/cloudfoundry-incubator/cf-extensions)?
-- Which projects are still active? (added a number to the Status Updates Needed section)
+  - not in use - we should retire this to the Attic
+
+## Updates
+
+### Stratos (Neil MacDougall)
+
+- 4.1.0 just released
+- bug fixes & API key support (will be very useful in 4.2)
+- 4.2.0 scheduled for CF Summit - will include the Kubernetes & Helm extensions
+
+### cflocal (Stephen Levine)
+
+- added cflinuxfs3 support recently 
+- v2 buildpack users still use it
+- we will move it to the attic when we end support for v2 buildpacks
 
 
 # Projects
 
 ## _Incubating_
 
-### [Service Fabrik](https://github.com/cloudfoundry-incubator/service-fabrik-broker)
-### [MultiApps](https://github.com/cloudfoundry-incubator/multiapps-cli-plugin)
+- [Service Fabrik](https://github.com/cloudfoundry-incubator/service-fabrik-broker) - SAP
+- [MultiApps](https://github.com/cloudfoundry-incubator/multiapps-cli-plugin)
 
 ## _Under Review_
 
-### [cfdev](https://github.com/cloudfoundry-incubator/cfdev) - Anthony Emengo 
-* Inactive. Consider moving to the Attic?
+- [cfdev](https://github.com/cloudfoundry-incubator/cfdev) - Anthony Emengo 
+  - Inactive. Consider moving to the Attic?
 
 ## _Graduated_
 
-### [App AutoScaler](https://github.com/cloudfoundry/app-autoscaler)
-### [BBR](https://github.com/cloudfoundry-incubator/bosh-backup-and-restore)
-### [Buildpacks](https://buildpacks.io/)
-### [CredHub & CLI](https://github.com/cloudfoundry-incubator/credhub)
-### [CFCR (aka Kubo)](https://github.com/cloudfoundry-incubator/cfcr-home) - Stuart Charlton
-### [Stratos](https://github.com/cloudfoundry/stratos)
-### [omniauth-uaa-oauth2](https://github.com/cloudfoundry/omniauth-uaa-oauth2)
-### [cf-uaa-lib](https://github.com/cloudfoundry/cf-uaa-lib)
+- [App AutoScaler](https://github.com/cloudfoundry/app-autoscaler)
+- [BBR](https://github.com/cloudfoundry-incubator/bosh-backup-and-restore) - Yaran Parasol
+- [Buildpacks](https://buildpacks.io/)
+- [CredHub & CLI](https://github.com/cloudfoundry-incubator/credhub)
+- [CFCR (aka Kubo)](https://github.com/cloudfoundry-incubator/cfcr-home) - Stuart Charlton
+- [Stratos](https://github.com/cloudfoundry/stratos)
+- [omniauth-uaa-oauth2](https://github.com/cloudfoundry/omniauth-uaa-oauth2) - Dr. Nic
+- [cf-uaa-lib](https://github.com/cloudfoundry/cf-uaa-lib) - Dr. Nic
 
 ## _Status Updates Needed_
 
-### [Brooklyn Broker](https://github.com/cloudfoundry-incubator/apache-brooklyn-service-broker) - Robert Moss
-### [SQL Server](https://github.com/cloudfoundry-incubator/mssql-server-broker) - Jared Gordon
-### [cflocal](https://github.com/cloudfoundry-incubator/cflocal) - Steven Levine
-### [Java Tools](https://github.com/cloudfoundry/cf-java-client) - Ben Hale
-### [CF Swagger](https://github.com/cloudfoundry-incubator/cf-swagger) - Dr. Max
-### [Notifications](https://github.com/cloudfoundry-incubator/notifications) - Nadja Conklin(?) or Dwayne Forde
+- [CF Swagger](https://github.com/cloudfoundry-incubator/cf-swagger) - was Dr. Max
+  - needs a new owner
+  - potentially useful tool, but needs to support CF v3 API
+
+- [Java Tools](https://github.com/cloudfoundry/cf-java-client) - Ben Hale
+- [Notifications](https://github.com/cloudfoundry-incubator/notifications) - Nadja Conklin(?) or Dwayne Forde
 
 ## _Retired_
 
-### [CF Abacus](https://github.com/cloudfoundry-incubator/cf-abacus)
-### [Project Blockheads](https://github.com/cloudfoundry-incubator/blockhead)
+- [CF Abacus](https://github.com/cloudfoundry-incubator/cf-abacus)
+- [Project Blockheads](https://github.com/cloudfoundry-incubator/blockhead)
+
+## _To Be Retired_
+
+- [Brooklyn Broker](https://github.com/cloudfoundry-incubator/apache-brooklyn-service-broker) - Robert Moss
+- [SQL Server](https://github.com/cloudfoundry-incubator/mssql-server-broker) - Jared Gordon
 
