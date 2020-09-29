@@ -42,6 +42,13 @@ Find your local number: https://zoom.us/u/abSAPsJbM
 - v2 buildpack users still use it
 - we will move it to the attic when we end support for v2 buildpacks
 
+### BOSH Backup & Restore (BBR)
+
+- just shipped v. 1.8.0 with a validator for S3 configuration
+- will ship soon 1.9.0 with some SSH refactoring and improvements
+- looking into some potential future changes 
+- re. ongoing maintenance: will maintain BBR as CVE and bug free
+
 
 # Projects
 
