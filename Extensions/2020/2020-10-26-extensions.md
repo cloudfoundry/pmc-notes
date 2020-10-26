@@ -30,6 +30,13 @@ None.
 
 ### Stratos 
 
+#### Stratos 4.2 release
+
+- Kubernetes and Helm for everyone!
+- https://github.com/cloudfoundry/stratos/releases/tag/4.2.0
+- New https://stratos.app/ website
+
+
 ### MultiApps 
 
 #### New Features
