@@ -1,6 +1,6 @@
 ## PMC meetings
 
-CF Application Runtime PMC meetings take place every other Tuesday from 10:30 to 11 AM PT on [Zoom](https://zoom.us/j/96347589558?pwd=VEprM25KOFQzMVEzeEpUUmUwTzR4dz09). We encourage all project leads to attend and welcome visitors.
+CF Application Runtime PMC meetings take place every other Tuesday from 10:30 to 11 AM PT on [Zoom](https://zoom.us/j/96347589558?pwd=VEprM25KOFQzMVEzeEpUUmUwTzR4dz09). The [CFF community calendar](https://www.cloudfoundry.org/community-calendar/) also lists upcoming meetings. We encourage all project leads to attend and welcome visitors from the community.
 
 Notes from each meeting are located in Markdown-formatted files of the form `YYYY/YYYY-MM-DD-runtime.md` within this directory.
 
