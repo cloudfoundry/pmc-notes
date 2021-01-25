@@ -12,7 +12,7 @@ To be moved to Attic:
 * cf-swagger (could be brought back)
 * cf-plugin-backup: last commit 10 months ago
 
-Christ ot follow up on:
+Chris to follow up on:
 * CFCR: should be retired at some point this year, hold off for now
 * last-gen buildpacks (pre-Paketo): also needs followup
 * Java Tools: Ben Hale to clarify
